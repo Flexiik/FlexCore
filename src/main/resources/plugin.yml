@@ -1,0 +1,6 @@
+name: FlexCore
+version: '${project.version}'
+main: cz.flexiik.flexcore.FlexCore
+api-version: 1.19
+authors: [ Flexiik, BadDawe ]
+description: Core with basic mechanics for the server.
