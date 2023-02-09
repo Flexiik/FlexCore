@@ -4,3 +4,7 @@ main: cz.flexiik.flexcore.FlexCore
 api-version: 1.19
 authors: [ Flexiik, BadDawe ]
 description: Core with basic mechanics for the server.
+
+commands:
+  adminpanel:
+    description: Opens you an admin panel, where you can manage players online.
